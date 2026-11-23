@@ -1,0 +1,13 @@
+{
+  "name": "Fireworks AI",
+  "description": "Hosted inference for open models, including chat, embeddings, reranking, and decisions.",
+  "category": "model_provider",
+  "providerCountry": "US",
+  "inferenceRegions": ["World"],
+  "urls": {
+    "homepage": "https://fireworks.ai",
+    "docs": "https://docs.fireworks.ai",
+    "pricing": "https://fireworks.ai/pricing",
+    "console": "https://app.fireworks.ai"
+  }
+}

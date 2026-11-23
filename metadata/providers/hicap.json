@@ -1,0 +1,17 @@
+{
+  "name": "Hicap",
+  "description": "Managed Capacity Infrastructure. Smarter. Cheaper. Faster.",
+  "urls": {
+    "homepage": "https://hicap.ai",
+    "pricing": "https://hicap.ai/models",
+    "docs": "https://docs.hicap.ai",
+    "termsOfService": "https://hicap.ai/terms",
+    "privacyPolicy": "https://hicap.ai/privacy",
+    "console": "https://platform.hicap.ai"
+  },
+  "providerCountry": "US",
+  "category": "gateway_router",
+  "inferenceRegions": [
+    "World"
+  ]
+}

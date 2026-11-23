@@ -1,0 +1,10 @@
+{
+  "name": "OpenRouter",
+  "description": "Model gateway with support for chat, embeddings, and reranking.",
+  "urls": { "homepage": "https://openrouter.ai", "docs": "https://openrouter.ai/docs", "pricing": "https://openrouter.ai/pricing" },
+  "providerCountry": "US",
+  "category": "gateway_router",
+  "inferenceRegions": ["World"],
+  "apiBaseUrl": "https://openrouter.ai/api",
+  "chatEndpoints": ["/v1/chat/completions"]
+}

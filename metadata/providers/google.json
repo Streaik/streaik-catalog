@@ -1,0 +1,13 @@
+{
+  "name": "Google Gemini",
+  "description": "Gemini models and agents, multimodal generation, embeddings, and Gemini Live.",
+  "category": "model_provider",
+  "providerCountry": "US",
+  "inferenceRegions": ["World"],
+  "urls": {
+    "homepage": "https://ai.google.dev",
+    "docs": "https://ai.google.dev/gemini-api/docs",
+    "pricing": "https://ai.google.dev/gemini-api/docs/pricing",
+    "console": "https://aistudio.google.com"
+  }
+}

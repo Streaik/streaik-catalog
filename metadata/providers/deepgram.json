@@ -1,0 +1,9 @@
+{
+  "name": "Deepgram",
+  "description": "Speech synthesis, speech recognition, and realtime audio APIs.",
+  "urls": { "homepage": "https://deepgram.com", "docs": "https://developers.deepgram.com", "pricing": "https://deepgram.com/pricing" },
+  "providerCountry": "US",
+  "category": "media_voice",
+  "inferenceRegions": ["World"],
+  "apiBaseUrl": "https://api.deepgram.com"
+}

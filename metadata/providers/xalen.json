@@ -1,0 +1,13 @@
+{
+  "name": "XALEN",
+  "description": "OpenAI-compatible AI gateway with frontier models and Vedika astrology models.",
+  "urls": {
+    "homepage": "https://xalen.io/",
+    "docs": "https://xalen.io/docs"
+  },
+  "category": "gateway_router",
+  "apiBaseUrl": "https://api.xalen.io",
+  "chatEndpoints": [
+    "/v1/chat/completions"
+  ]
+}

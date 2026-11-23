@@ -1,0 +1,16 @@
+{
+  "name": "Nodion",
+  "description": "European AI inference API for open-source models like Qwen 3.5. GDPR-compliant, hosted on Nordic green energy. OpenAI-compatible.",
+  "urls": {
+    "homepage": "https://www.nodion.ai",
+    "pricing": "https://www.nodion.ai/en/inference/#models",
+    "docs": "https://www.nodion.ai/en/inference/#docs",
+    "privacyPolicy": "https://www.nodion.ai/en/privacy",
+    "termsOfService": "https://www.nodion.ai/en/terms"
+  },
+  "providerCountry": "DE",
+  "category": "inference_compute",
+  "inferenceRegions": [
+    "Europe"
+  ]
+}

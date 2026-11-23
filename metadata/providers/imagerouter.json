@@ -1,0 +1,9 @@
+{
+  "name": "ImageRouter",
+  "description": "Gateway for image generation, editing, and video generation models.",
+  "urls": { "homepage": "https://imagerouter.io", "docs": "https://docs.imagerouter.io", "pricing": "https://imagerouter.io/pricing" },
+  "providerCountry": "HU",
+  "category": "media_voice",
+  "inferenceRegions": ["World"],
+  "apiBaseUrl": "https://api.imagerouter.io"
+}

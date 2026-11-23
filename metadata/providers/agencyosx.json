@@ -1,0 +1,11 @@
+{
+  "name": "AgencyOSX",
+  "description": "Specialist AI agents for agency workflows.",
+  "urls": {
+    "homepage": "https://agencyosx.ai",
+    "docs": "https://www.agencyosx.ai/api-docs",
+    "console": "https://app.agencyosx.ai"
+  },
+  "category": "app_tools",
+  "apiBaseUrl": "https://app.agencyosx.ai/api/v1"
+}
