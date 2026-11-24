@@ -2,6 +2,14 @@
   "version": 1,
   "files": [
     {
+      "file": "models/providers/mixedbread.json",
+      "sha256": "65ad0cdf3d8a7e8df7f1d2d063c4994bcbd1b5c2764cb7783ea2465c96b54876"
+    },
+    {
+      "file": "models/providers/segmind.json",
+      "sha256": "504e2b8ec892a26113961e565d677608a789960d4fb39dd49eaaf83700f8d248"
+    },
+    {
       "file": "pricing/providers/abacusai.json",
       "sha256": "21686e052c71ce1a2dce3f35ba1dde58f304617069eed4dc8aac2b27fd9699d9"
     },

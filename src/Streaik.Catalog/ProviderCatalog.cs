@@ -15,6 +15,8 @@ public static class ProviderCatalog
 
     public static JsonObject? ReadPricing(string providerId) => Read($"pricing/providers/{providerId}.json")?.AsObject();
 
+    public static JsonObject? ReadModels(string providerId) => Read($"models/providers/{providerId}.json")?.AsObject();
+
     private static JsonNode? Read(string resource)
     {
         using var stream = typeof(ProviderCatalog).Assembly.GetManifestResourceStream(resource);
