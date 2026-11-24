@@ -2,12 +2,20 @@
   "version": 1,
   "files": [
     {
+      "file": "models/providers/bespokelabs.json",
+      "sha256": "565d50036280ebc2c887e24d58aa6aac82b8c2b56827d676182ddd9053dd06f0"
+    },
+    {
       "file": "models/providers/mixedbread.json",
       "sha256": "65ad0cdf3d8a7e8df7f1d2d063c4994bcbd1b5c2764cb7783ea2465c96b54876"
     },
     {
       "file": "models/providers/segmind.json",
       "sha256": "504e2b8ec892a26113961e565d677608a789960d4fb39dd49eaaf83700f8d248"
+    },
+    {
+      "file": "models/providers/upstage.json",
+      "sha256": "9f1a8950f00ebff8b89fb78375936ce7f97425898400de2943b0ab4aa853e19d"
     },
     {
       "file": "pricing/providers/abacusai.json",
