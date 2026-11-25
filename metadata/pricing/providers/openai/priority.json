@@ -202,5 +202,33 @@
             "input_cache_write": "0.000005",
             "output": "0.000020"
         }
+    },
+    "openai/gpt-6.2-astra-healthcare": {
+        "pricing": {
+            "input": "0.000016",
+            "input_cache_read": "0.0000008",
+            "output": "0.000080"
+        }
+    },
+    "openai/gpt-6.2-sol-healthcare": {
+        "pricing": {
+            "input": "0.000004",
+            "input_cache_read": "0.0000002",
+            "output": "0.000020"
+        }
+    },
+    "openai/gpt-6-astra-healthcare": {
+        "pricing": {
+            "input": "0.000020",
+            "input_cache_read": "0.000002",
+            "output": "0.000100"
+        }
+    },
+    "openai/gpt-6.1-sol-healthcare": {
+        "pricing": {
+            "input": "0.000004",
+            "input_cache_read": "0.0000002",
+            "output": "0.000020"
+        }
     }
 }
