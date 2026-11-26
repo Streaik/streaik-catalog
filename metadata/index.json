@@ -10,6 +10,10 @@
       "sha256": "65ad0cdf3d8a7e8df7f1d2d063c4994bcbd1b5c2764cb7783ea2465c96b54876"
     },
     {
+      "file": "models/providers/picsart.json",
+      "sha256": "71272634f2e93690d11657fb5cbb842b5c40db1e1b454cf97a8cde05002c204b"
+    },
+    {
       "file": "models/providers/segmind.json",
       "sha256": "504e2b8ec892a26113961e565d677608a789960d4fb39dd49eaaf83700f8d248"
     },
