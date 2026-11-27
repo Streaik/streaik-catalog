@@ -207,6 +207,16 @@
       "output": "0.0000005"
     }
   },
+  "openai/text-embedding-3-small": {
+    "pricing": {
+      "input": "0.00000002"
+    }
+  },
+  "openai/text-embedding-3-large": {
+    "pricing": {
+      "input": "0.00000013"
+    }
+  },
   "openai/gpt-6.1-sol": {
     "pricing": {
       "input": "0.000002",
