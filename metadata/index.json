@@ -2,8 +2,36 @@
   "version": 1,
   "files": [
     {
+      "file": "models/providers/aivara.json",
+      "sha256": "6a36eee3d3e26064e8a234d67571e0ecb7ca4e523a34377f59962d48f6dc4546"
+    },
+    {
+      "file": "models/providers/anyrouter.json",
+      "sha256": "2f8ee235bea73736faf97f7c5609bebe5b3988471ed2455bfc4dd02d822cf224"
+    },
+    {
+      "file": "models/providers/apekey.json",
+      "sha256": "51a678cee16e55dff1561841b2b40e9441d7592fa4fda1c9df377f5e8179adfb"
+    },
+    {
+      "file": "models/providers/asione.json",
+      "sha256": "30d417d0ff66a6852b49a184c3952fc66daebd495e1d12e6a225390cd3d22fba"
+    },
+    {
+      "file": "models/providers/avian.json",
+      "sha256": "d3ac7352f33392914c549ce87057cf1d1435f6203a55bf7dc3616fd764b5ba95"
+    },
+    {
       "file": "models/providers/bespokelabs.json",
       "sha256": "565d50036280ebc2c887e24d58aa6aac82b8c2b56827d676182ddd9053dd06f0"
+    },
+    {
+      "file": "models/providers/fishaudio.json",
+      "sha256": "40914b375370388e75bb575d34d780a5aeea042e8ab2a67a4ad0cb10f37f5fe1"
+    },
+    {
+      "file": "models/providers/lumaai.json",
+      "sha256": "e936acb25a6bd0450002d0006845b5a16bea7ffa36624ac43bdc4e6b087e3922"
     },
     {
       "file": "models/providers/mixedbread.json",
@@ -14,12 +42,24 @@
       "sha256": "71272634f2e93690d11657fb5cbb842b5c40db1e1b454cf97a8cde05002c204b"
     },
     {
+      "file": "models/providers/runway.json",
+      "sha256": "9806ee3b657b20db75581ac9a6ed6fa78829db305b31b4b7dd1cc36576038ee3"
+    },
+    {
       "file": "models/providers/segmind.json",
       "sha256": "504e2b8ec892a26113961e565d677608a789960d4fb39dd49eaaf83700f8d248"
     },
     {
+      "file": "models/providers/stabilityai.json",
+      "sha256": "37bdfc6b78c98ad9f34d1ad87e45b44163647d423cdbbb87df9027a5c9d88bbf"
+    },
+    {
       "file": "models/providers/upstage.json",
       "sha256": "9f1a8950f00ebff8b89fb78375936ce7f97425898400de2943b0ab4aa853e19d"
+    },
+    {
+      "file": "models/providers/vanceai.json",
+      "sha256": "79893c2bab3f5c510af72653d38f3728e18bfe77f073dba3f73686271edecff8"
     },
     {
       "file": "pricing/providers/abacusai.json",
@@ -183,7 +223,7 @@
     },
     {
       "file": "pricing/providers/openai.json",
-      "sha256": "16526f15207c18f59622847832e89c015cc7096ca3bcd80d72383bc34a4e8d6e"
+      "sha256": "093b15c2b4100319b304f7221184935a5cf56cf9ecf996146c5c44e7bcae323d"
     },
     {
       "file": "pricing/providers/openai/flex.json",
@@ -195,11 +235,11 @@
     },
     {
       "file": "pricing/providers/openai/priority.json",
-      "sha256": "ce815318ff8317e6a061e6ca44c15835b0eccd57e0b581a1e8064cd656e15596"
+      "sha256": "a84807d5ed3bbfc4c77cb012ae9cf5bb28fcaedf1c54026c74e49edefcd8a468"
     },
     {
       "file": "pricing/providers/openai/standard.long_context.json",
-      "sha256": "f288564a594c2be59c11469ae48498319b3d95fb3c33ebf9729004ec944f82cf"
+      "sha256": "82d9785a4055b2b0c3a8b49410ea131ffc4f77041c0206a771d39f0d6c51e97d"
     },
     {
       "file": "pricing/providers/opencode.json",
@@ -1211,7 +1251,7 @@
     },
     {
       "file": "providers/google.json",
-      "sha256": "94ad888b5860c2cc34e6640539baaa8659a8472033cb708ca53e2e39e1a8b54f"
+      "sha256": "b484ca023b8cb685ecca9a69139be8ea39967e13b4dabb41613bb391219e9613"
     },
     {
       "file": "providers/googletranslate.json",
@@ -1843,7 +1883,7 @@
     },
     {
       "file": "providers/mistral.json",
-      "sha256": "97f6c4bc4a55e5f32737743d119de30392f182b649533c3cd26a83200a82ebae"
+      "sha256": "cd4e480ed788aa78f5cc6de053d7e3215c0c2207d4e753416100662420246e3c"
     },
     {
       "file": "providers/mixedbread.json",
